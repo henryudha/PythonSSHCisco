@@ -5,8 +5,8 @@ This is a Class to ssh Cisco device through Python Paramiko
 ## How to Use
 
 1. put Cisco.py on your current directory.
-2. a) at the same directory, open python console
-   b) or if you want to create your own script with this class, please put the Cisco.py on the same directory with your script
+2. at the same directory, open python console
+3. or if you want to create your own script with this class, please put the Cisco.py on the same directory with your script
 
 ## Code Sample
 
